@@ -1,4 +1,4 @@
-# oss-cc-flow-and-agile-metrics
+# Creative Commons Metrics for projects, Productdevelopment in lean and agile environments
 Collection of sources and resources for establishing independent statistical capabilities
 
 Most sourcecode developed by [Daniel Speicher](https://twitter.com/dsp_de)
